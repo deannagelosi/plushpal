@@ -3,12 +3,16 @@
 ## What is PlushPal?
 [PlushPal](https://ttseng.github.io/plushie/) is a new digital tool for kids to use make their stuffed animals interactive using machine learning (ML). Kids make their own custom gesture and sound pairings, and use a [micro:bit](https://microbit.org) to detect specific movements that their stuffed animal makes. 
 
-<img src="/img/plushpal-demo.gif" alt="plushpal gif" width="400"/>
+<html>
+<img src="/plushpal/img/plushpal-demo.gif" alt="plushpal gif" width="400"/>
+</html>
 
 ## How it Works
 ### Set-up
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
+<html>
 <img src="/img/dragon-microbit-1.png" alt="dragon plushie with micro:bit" width="400"/>
+</html>
 
 ### Record Gestures
 Create a new gesture and perform the gesture multiple times while recording it.
