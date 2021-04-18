@@ -5,19 +5,11 @@
 
 ![plushpal gif](/img/plushpal-demo.gif){: width="400" }
 
-<html>
-<img src="/plushpal/img/plushpal-demo.gif" alt="plushpal gif" width="400"/>
-</html>
-
 ## How it Works
 ### Set-up
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
 
 ![dragon plushie with micro:bit](/img/dragon-microbit-1.png){: width="400" }
-
-<html>
-<img src="/img/dragon-microbit-1.png" alt="dragon plushie with micro:bit" width="400"/>
-</html>
 
 ### Record Gestures
 Create a new gesture and perform the gesture multiple times while recording it.
