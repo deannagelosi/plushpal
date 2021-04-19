@@ -45,3 +45,17 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 </html>
+
+## Vegalite Example
+<html>
+<iframe width="100%" height="341" frameborder="0"
+  src="https://observablehq.com/embed/@deannagelosi/vega-lite-assignment?cells=changeBikeRiders"></iframe>
+</html>
+
+## D3 Example
+<html>
+  <iframe width="100%" height="384" frameborder="0"
+  src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/5?cells=animatedInteractiveNodesAndArcsNew"></iframe>
+</html>
+
+
