@@ -61,7 +61,10 @@ In the eleven projects that kids made, there were 42 unique gestures that were c
     <param name='display_count' value='yes' />
     <param name='language' value='en' />
   </object>
-</div>                
+</div>   
+
+![Brian Bear accelerometer data](/img/brian-bear-accel.png){: width="250" }
+
 
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1619886289792');
