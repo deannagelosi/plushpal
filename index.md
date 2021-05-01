@@ -7,18 +7,29 @@
 
 ## How it Works
 ### Set-up
+
+![set up micro:bit](/img/set-up.png){: width="250" }
+
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
 
-![dragon plushie with micro:bit](/img/dragon-microbit-1.png){: width="250" }
-
 ### Record Gestures
+
+![record gestures](/img/record-gestures.png){: width="400" }
+
 Create a new gesture and perform the gesture multiple times while recording it.
 
 ### Evaluate and Play
+
+![evaluate and play](/img/evaluate.png){: width="250" }
+
 Test if ML models correctly detect gestures and make adjustments as needed and add sound to each gesture.
 
 ## What is the PlushPal study?
 PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in person during the COVID-19 pandemic. Children brought their own stuffed animals to the playtest and used a micro:bit and PlushPal to make their toys interactive. After a brief introduction to the tool, machine learning, and a presurvey, children were asked to make asked to make create custom gestures for their stuffed animals (ex. walking, eating, sleeping). These gestures were performed multiple times by the children, and it was suggested that they should perform and record each gesture at least three times. 
+
+## Demographics
+
+![demographics](/img/demographics.png){: width="400" }
 
 ## What Kids Made
 
@@ -27,10 +38,6 @@ In the eleven projects that kids made, there were 42 unique gestures that were c
 <html>
   <iframe width="100%" height="984" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
 </html>
-
-## Demographics
-
-![demographics](/img/demographics.png){: width="400" }
 
 ## Case Studies
 
