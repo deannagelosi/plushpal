@@ -9,7 +9,7 @@
 ### Set-up
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
 
-![dragon plushie with micro:bit](/img/dragon-microbit-1.png){: width="400" }
+![dragon plushie with micro:bit](/img/dragon-microbit-1.png){: width="250" }
 
 ### Record Gestures
 Create a new gesture and perform the gesture multiple times while recording it.
@@ -92,8 +92,7 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
 
 ## D3 Example
 <html>
-  <iframe width="100%" height="384" frameborder="0"
-  src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/5?cells=animatedInteractiveNodesAndArcsNew"></iframe>
+  <iframe width="100%" height="984" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
 </html>
 
 
