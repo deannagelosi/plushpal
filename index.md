@@ -36,7 +36,7 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
 In the eleven projects that kids made, there were 42 unique gestures that were created. Some gestures were common amongst projects (ex: run and jump) and others were unique only to one project.
 
 <html>
-  <iframe width="100%" height="984" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
+  <iframe width="945px" height="984px" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
 </html>
 
 ## Case Studies
