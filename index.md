@@ -20,7 +20,17 @@ Test if ML models correctly detect gestures and make adjustments as needed and a
 ## What is the PlushPal study?
 PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in person during the COVID-19 pandemic. Children brought their own stuffed animals to the playtest and used a micro:bit and PlushPal to make their toys interactive. After a brief introduction to the tool, machine learning, and a presurvey, children were asked to make asked to make create custom gestures for their stuffed animals (ex. walking, eating, sleeping). These gestures were performed multiple times by the children, and it was suggested that they should perform and record each gesture at least three times. 
 
+## What Kids Made
+
+In the eleven projects that kids made, there were 42 unique gestures that were created. Some gestures were common amongst projects (ex: run and jump) and others were unique only to one project.
+
+<html>
+  <iframe width="100%" height="984" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
+</html>
+
 ## Demographics
+
+![demographics](/img/demographics.png){: width="400" }
 
 ## Case Studies
 
@@ -82,17 +92,5 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
 </script>
 </html>
 
-
-
-## Vegalite Example
-<html>
-<iframe width="100%" height="341" frameborder="0"
-  src="https://observablehq.com/embed/@deannagelosi/vega-lite-assignment?cells=changeBikeRiders"></iframe>
-</html>
-
-## D3 Example
-<html>
-  <iframe width="100%" height="984" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-gesture-visualization?cells=NodesAndLabels"></iframe>
-</html>
-
-
+## Findings
+![data literacy](/img/data literacy.png){: width="400" }
