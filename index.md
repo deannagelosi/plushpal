@@ -78,7 +78,7 @@ In the eleven projects that kids made, there were 42 unique gestures that were c
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-![Brian Bear accelerometer data](/img/brian-bear-accel.png){: width="400" }
+![Brian Bear accelerometer data](/img/brian-bear-accel.png){: width="600" }
 
 <div class='tableauPlaceholder' id='viz1619914102397' style='position: relative'>
   <noscript>
@@ -110,7 +110,7 @@ In the eleven projects that kids made, there were 42 unique gestures that were c
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-![John Bear accelerometer data](/img/john-bear-accel.png){: width="400" }
+![John Bear accelerometer data](/img/john-bear-acce-1.png){: width="600" }
 
 
 ## Findings
