@@ -127,12 +127,12 @@ Another participant, John Bear, exhibited a very different approach to data samp
 
 ![John Bear accelerometer data](/img/john-bear-accel-1.png){: width="640" }
 
-John Bear looked at the graphs 
-
 When this occurred, his initial response was, “More data?," at which point he added another sample for both _kick_ and _jump_. This revealed that he was aware that the number of samples affects the model. After recording a new _jump_ sample, he inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as he moved the bear up and down three times. This again shows his care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
 
 ## Findings
 
-Children were asked pre- and post-tests around topics related to machine learning. After their experience with PlushPal, 70% of children who answered the post-survey questions could provide a technical definition of machine learning (one that defines machine learning as a human training a computer to detect something specified). Before PlushPal, only 10% of children were able to provide such a definition. Researchers saw through this study that children have different approaches to collecting data samples and highlight some misconceptions, including how machine learning models work. Children had a wide variety of gesture ideas to record, but could use support around how the quantity of sample sizes and similiarities between sample recordings impacts the accuracy of their machine learning models. 
+Children were asked pre- and post-tests around topics related to machine learning. After their experience with PlushPal, 70% of children who answered the post-survey questions could provide a technical definition of machine learning (one that defines machine learning as a human training a computer to detect something specified). Before PlushPal, only 10% of children were able to provide such a definition. 
 
 ![data literacy](/img/data literacy.png){: width="400" }
+
+Researchers saw through this study that children have different approaches to collecting data samples and highlight some misconceptions, including how machine learning models work. Children had a wide variety of gesture ideas to record, but could use support around how the quantity of sample sizes and similiarities between sample recordings impacts the accuracy of their machine learning models. 
