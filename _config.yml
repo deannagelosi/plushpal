@@ -1,2 +1,14 @@
 # theme: jekyll-theme-slate
+---
+layout: default
+title: Index
+nav_order: 1
+---
+
+---
+layout: default
+title: Demographics
+nav_order: 2
+---
+
 remote_theme: pmarsceill/just-the-docs
