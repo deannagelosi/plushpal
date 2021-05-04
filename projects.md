@@ -1,10 +1,10 @@
 ---
 layout: default
-title: What Kids Made
+title: Projects
 nav_order: 3
 ---
 
-# What Kids Made
+# Projects
 
 There were 42 unique gestures that were created across all eleven projects. Some gestures were common amongst projects (ex: _run_ and _jump_) and others were unique only to one project. For anonymity, the child's name is replaced with the of their stuffed animal (ex: Cat, Dog, Unicorn). Since multiple children brought teddy bears, their names start with the name they gave to their stuffed animal followed by bear (ex: Brian Bear, John Bear).
 
