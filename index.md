@@ -5,7 +5,7 @@
 
 ![plushpal gif](/img/plushpal-demo.gif){: width="400" }
 
-## How it Works
+# How it Works
 ### Set-up
 
 ![set up micro:bit](/img/set-up.png){: width="250" }
