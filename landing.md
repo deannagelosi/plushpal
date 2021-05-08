@@ -1,8 +1,10 @@
+<!--
 ---
 layout: default
 title: What is PlushPal?
 nav_order: 1
 ---
+-->
 
 
 # What is PlushPal?
