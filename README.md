@@ -1,1 +1,1 @@
-# plushpal
+# PlushPal
