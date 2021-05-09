@@ -11,9 +11,9 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
 We had eleven children participate in the study that were eight to fourteen years old. Most had prior programming experience through block based editors like Scratch and MakeCode, and a few had experience using a micro:bit.
 
 <html>
-<iframe width="100%" height="343" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/untitled?cells=isotypes"></iframe>
+  <iframe width="100%" height="343" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=isotypes"></iframe>
 </html>
 
 <html>
-<iframe width="100%" height="259" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/untitled?cells=simpleBarCharts"></iframe>
+  <iframe width="100%" height="259" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=participantAges"></iframe>
 </html>
