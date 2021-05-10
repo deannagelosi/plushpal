@@ -13,7 +13,7 @@ Each child's project was unique and developed out of their own interests and exp
 
 Brian Bear (a pseudonym for the child based on their stuffed animal's name) created gestures for their stuffed animal to respond to in a bedroom: _sleeping_, _playing board games_, and _dancing_. While recording samples of each of these gestures, the researcher noticed that Brian Bear performed each gesture differently. When asked to explain their intentions, Brian Bear explained that they wanted a wider range of movements for the computer to recognize as one gesture. In the example of _sleeping_, this resulted in three different gesture samples: lying still, sleeping on one side, and rolling over.
 
-![Brian Bear accelerometer data](/img/sleep-gestures.png){: width="640" }
+![sleeping gestures](/img/sleeping-gestures.svg){: width="640" }
 
 While this mindset could work on a large data set with many sample recordings, it's not ideal to have such varied recordings for a small sample size of N=3.
 
