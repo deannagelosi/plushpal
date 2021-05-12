@@ -12,7 +12,7 @@ Each child's project was unique and developed out of their own interests and exp
 
 <html>
   <style>
-    /* Three image containers (use 25% for four, and 50% for two, etc) */
+    /* Two image containers (use 50% for two) */
     .column {
       float: left;
       width: 50%;
@@ -25,16 +25,16 @@ Each child's project was unique and developed out of their own interests and exp
       display: table;
     }
   </style>
-  
+
   <div class="row">
     <div class="column">
        <a href="brian-bear.html">
-         <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:100%" />
+         <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:80%" />
       </a> 
     </div>
     <div class="column">
       <a href="john-bear.html">
-        <img src="img/meet-john-bear.png" alt="John Bear" style="width:100%" />
+        <img src="img/meet-john-bear.png" alt="John Bear" style="width:80%" />
       </a> 
     </div>
   </div> 
