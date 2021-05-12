@@ -8,7 +8,7 @@ nav_order: 2
 
 # John Bear: Similarities Across Gestures 
 
-Another participant, John Bear, exhibited a very different approach, repeatedly rerecorded samples to make them as similar as possible. They created _jump_ and then added _kick_. They quickly found that these two gestures interfered with one another. In John Bear's Gesture Log, notice that they removed and added _kick_ six times. The gesture was interfering with _jump_ due to similarities between the gestures' accelerometer plots.
+Another participant, John Bear, exhibited a very different approach by repeatedly rerecorded samples to make them as similar as possible. They created _jump_ and then added _kick_. They quickly found that these two gestures interfered with one another. In John Bear's Gesture Log, notice that they removed and added _kick_ six times. The gesture was interfering with _jump_ due to similarities between the gestures' accelerometer plots.
 
 ![John Bear accelerometer data](/img/similar-gestures-1.png)
 
