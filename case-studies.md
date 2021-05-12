@@ -24,16 +24,23 @@ Each child's project was unique and developed out of their own interests and exp
       clear: both;
       display: table;
     }
+    .no-line: {
+     text-decoration: none;
+    }
+    a.no-line:link { text-decoration: none; }
+    a.no-line:visited { text-decoration: none; }
+    a.no-line:hover { text-decoration: none; }
+    a.no-line:active { text-decoration: none; }
   </style>
 
   <div class="row">
     <div class="column">
-       <a href="brian-bear.html">
+       <a class="no-line" href="brian-bear.html">
          <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:80%" />
-      </a> 
+      </a>
     </div>
     <div class="column">
-      <a href="john-bear.html">
+      <a class="no-line" href="john-bear.html">
         <img src="img/meet-john-bear.png" alt="John Bear" style="width:80%" />
       </a> 
     </div>
