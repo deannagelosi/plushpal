@@ -18,7 +18,7 @@ When Brian Bear described their process for recording three different sleep samp
 
 When this occurred, their initial response was, “More data?," at which point they added another sample for both _kick_ and _jump_. This revealed that they were aware that the number of samples affects the model. After recording a new _jump_ sample, they inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as they moved the bear up and down three times. This again shows their care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
 
-## Two Gestures, Too Similar
+## John Bear's Gesture Log
 
 While making their project, John Bear discovered a problem: two of their gestures (_kick_ and _jump_) were **not triggering properly** when tested.
 
