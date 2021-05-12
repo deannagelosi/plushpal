@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is PlushPal?
+title: About
 nav_order: 1
 ---
 
