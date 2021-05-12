@@ -43,10 +43,10 @@ Each child's project was unique and developed out of their own interests and exp
   
   <div class="row">
     <div class="column">
-      <img src="/img/meet-brian-bear.png" alt="Brian Bear" style="width:100%" />
+      <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:100%" />
     </div>
     <div class="column">
-      <img src="/img/meet-john-bear.png" alt="John Bear" style="width:100%" />
+      <img src="img/meet-john-bear.png" alt="John Bear" style="width:100%" />
     </div>
   </div> 
 </html>
