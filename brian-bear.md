@@ -9,8 +9,6 @@ nav_order: 1
 
 Brian Bear (a pseudonym for the child based on their stuffed animal's name) created gestures for their stuffed animal being in a bedroom: _sleep_, _play game_, and _dance_. While recording samples of each gesture, the researcher noticed that Brian Bear performed each gesture differently. When asked to explain their intentions, Brian Bear explained that they wanted a wider range of movements for the computer to recognize as one gesture. In the example of _sleep_, this resulted in three different gesture samples: lying still, sleeping on one side, and rolling over.
 
-</br>
-
 ## Three Different Samples for _Sleep_ Gesture
 
 When Brian Bear described their process for recording three different sleep samples, they explained that it was based on how they sleep, which looks different throughout the night.
@@ -20,6 +18,8 @@ When Brian Bear described their process for recording three different sleep samp
 While this mindset could work on a large data set with many sample recordings, it's not ideal to have such varied recordings for a small sample size of N=3.
 
 ## Brian Bear's Gesture Log
+
+Brian Bear created a story about playing in a bedroom. In two mintues, Brian Bear recorded **three sample recordings for all three gestures**: _dance_, _play game_, and _sleep_.
 
 <div class='tableauPlaceholder' id='viz1620602511003' style='position: relative'>
   <noscript>
