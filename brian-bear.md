@@ -17,6 +17,8 @@ Brian Bear (a pseudonym for the child based on their stuffed animal's name) crea
 
 While this mindset could work on a large data set with many sample recordings, it's not ideal to have such varied recordings for a small sample size of N=3.
 
+## Brian Bear's Gesture Log
+
 <div class='tableauPlaceholder' id='viz1620602511003' style='position: relative'>
   <noscript>
     <a href='#'>
