@@ -10,9 +10,19 @@ nav_order: 2
 
 Another participant, John Bear, exhibited a very different approach by repeatedly rerecorded samples to make them as similar as possible. They created _jump_ and then added _kick_. They quickly found that these two gestures interfered with one another. In John Bear's Gesture Log, notice that they removed and added _kick_ six times. The gesture was interfering with _jump_ due to similarities between the gestures' accelerometer plots.
 
-![John Bear accelerometer data](/img/similar-gestures-1.png)
+## Similar, Yet Different
+
+When Brian Bear described their process for recording three different sleep samples, they explained that it was based on how they sleep, which looks different throughout the night.
+
+![John Bear accelerometer data](/img/similar-yet-different.png)
 
 When this occurred, their initial response was, “More data?," at which point they added another sample for both _kick_ and _jump_. This revealed that they were aware that the number of samples affects the model. After recording a new _jump_ sample, they inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as they moved the bear up and down three times. This again shows their care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
+
+## Two Gestures, Too Similar
+
+While making their project, John Bear discovered a problem: two of their gestures (_kick_ and _jump_) were **not triggering properly** when tested.
+
+John Bear iterated on their design, **adding** and **removing** _kick_ recordings, in an attempt to fix this. They explained that the computer saw _kick_ and _jump_ very similarly, and would become confused.
 
 <div class='tableauPlaceholder' id='viz1620622687035' style='position: relative'>
   <noscript>
