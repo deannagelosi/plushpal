@@ -13,7 +13,7 @@ PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in pe
 </html>
 
 <html>
-  <iframe width="100%" height="259" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=participantAges"></iframe>
+  <iframe width="100%" height="304" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=participantAges"></iframe>
 </html>
 
 * * *
