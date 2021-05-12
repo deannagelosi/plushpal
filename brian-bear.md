@@ -7,7 +7,7 @@ nav_order: 1
 
 # Brian Bear and Varied Data Sampling
 
-Brian Bear (a pseudonym for the child based on their stuffed animal's name) created gestures for their stuffed animal to respond to in a bedroom: _sleeping_, _playing board games_, and _dancing_. While recording samples of each of these gestures, the researcher noticed that Brian Bear performed each gesture differently. When asked to explain their intentions, Brian Bear explained that they wanted a wider range of movements for the computer to recognize as one gesture. In the example of _sleeping_, this resulted in three different gesture samples: lying still, sleeping on one side, and rolling over.
+Brian Bear (a pseudonym for the child based on their stuffed animal's name) created gestures for their stuffed animal being in a bedroom: _sleep_, _play game_, and _dance_. While recording samples of each gesture, the researcher noticed that Brian Bear performed each gesture differently. When asked to explain their intentions, Brian Bear explained that they wanted a wider range of movements for the computer to recognize as one gesture. In the example of _sleep_, this resulted in three different gesture samples: lying still, sleeping on one side, and rolling over.
 
 ![sleeping gestures](/img/sleeping-gestures-1.svg){: width="700" }
 
@@ -48,3 +48,6 @@ While this mindset could work on a large data set with many sample recordings, i
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+* * *
+Next: [John Bear](john-bear)
