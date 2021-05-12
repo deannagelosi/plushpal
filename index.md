@@ -27,3 +27,6 @@ Create a new gesture and perform the gesture multiple times while recording it.
 ![evaluate and play](/img/evaluate.png){: width="250" }
 
 Test if ML models correctly detect gestures and make adjustments as needed and add sound to each gesture.
+
+* * *
+Next: [The Study](study)
