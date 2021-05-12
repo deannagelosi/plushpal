@@ -8,11 +8,11 @@ nav_order: 2
 
 # John Bear: Similarities Across Gestures 
 
-Another participant, John Bear, exhibited a very different approach to data sampling than Brian Bear. They repeatedly rerecorded samples to make them as similar as possible. Initially creating _jump_ and _run_ from a warm-up exercise, he added _kick_ for kicking a soccer ball and quickly found that the gestures interfered with one another. In John Bear's Gesture Log, notice that they removed and added kick six times. The gesture was interfering with _jump_ due to similarities between the gestures' accelerometer plots.
+Another participant, John Bear, exhibited a very different approach, repeatedly rerecorded samples to make them as similar as possible. They created _jump_ and then added _kick_. They quickly found that these two gestures interfered with one another. In John Bear's Gesture Log, notice that they removed and added _kick_ six times. The gesture was interfering with _jump_ due to similarities between the gestures' accelerometer plots.
 
 ![John Bear accelerometer data](/img/similar-gestures-1.png)
 
-When this occurred, his initial response was, “More data?," at which point he added another sample for both _kick_ and _jump_. This revealed that he was aware that the number of samples affects the model. After recording a new _jump_ sample, he inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as he moved the bear up and down three times. This again shows his care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
+When this occurred, their initial response was, “More data?," at which point they added another sample for both _kick_ and _jump_. This revealed that they were aware that the number of samples affects the model. After recording a new _jump_ sample, they inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as they moved the bear up and down three times. This again shows their care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
 
 <div class='tableauPlaceholder' id='viz1620622687035' style='position: relative'>
   <noscript>
@@ -48,3 +48,6 @@ When this occurred, his initial response was, “More data?," at which point he 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+* * *
+Next: [Findings](findings)
