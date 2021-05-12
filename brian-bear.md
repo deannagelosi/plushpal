@@ -11,7 +11,11 @@ Brian Bear (a pseudonym for the child based on their stuffed animal's name) crea
 
 </br>
 
-![sleeping gestures](/img/sleeping-gestures-1.svg){: width="700" }
+## Three Different Samples for _Sleep_ Gesture
+
+When Brian Bear described their process for recording three different sleep samples, they explained that it was based on how they sleep, which looks different throughout the night.
+
+![sleeping gestures](/img/sleep-samples.png)
 
 While this mindset could work on a large data set with many sample recordings, it's not ideal to have such varied recordings for a small sample size of N=3.
 
