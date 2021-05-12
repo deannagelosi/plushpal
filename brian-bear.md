@@ -19,7 +19,7 @@ While this mindset could work on a large data set with many sample recordings, i
 
 ## Brian Bear's Gesture Log
 
-Brian Bear created a story about playing in a bedroom. In two mintues, Brian Bear recorded **three sample recordings for all three gestures**: _dance_, _play game_, and _sleep_.
+Brian Bear created a story about playing in a bedroom. In two mintues, Brian Bear recorded **three sample recordings for all three gestures**: _play game_, _dance_, and _sleep_.
 
 <div class='tableauPlaceholder' id='viz1620602511003' style='position: relative'>
   <noscript>
