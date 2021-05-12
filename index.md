@@ -24,7 +24,7 @@ Create a new gesture and perform the gesture multiple times while recording it.
 
 ### Evaluate and Play
 
-![evaluate and play](/img/girl-toss-dragon-300.png)
+![evaluate and play](/img/girl-toss-dragon-300.png){: width="400" }
 
 Test if ML models correctly detect gestures and make adjustments as needed and add sound to each gesture.
 
