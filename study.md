@@ -8,8 +8,6 @@ nav_order: 2
 PlushPal was introduced to eleven kids, ages 8-14 years old, over Zoom and in person during the COVID-19 pandemic. Children brought their own stuffed animals to the playtest and used a micro:bit and PlushPal to make their toys interactive. After a brief introduction to the tool, machine learning, and a presurvey, children were asked to make custom gestures for their stuffed animals (ex. walking, eating, sleeping). These gestures were performed multiple times by the children, and it was suggested that they should perform and record each gesture at least three times. 
 
 ## Demographics
-We had eleven children participate in the study that were eight to fourteen years old. Most had prior programming experience through block based editors like Scratch and MakeCode, and a few had experience using a micro:bit.
-
 <html>
   <iframe width="100%" height="343" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=isotypes"></iframe>
 </html>
@@ -17,3 +15,6 @@ We had eleven children participate in the study that were eight to fourteen year
 <html>
   <iframe width="100%" height="259" frameborder="0" src="https://observablehq.com/embed/@deannagelosi/plushpal-demographics?cells=participantAges"></iframe>
 </html>
+
+* * *
+Next: [Projects](projects)
