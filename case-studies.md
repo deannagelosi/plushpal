@@ -10,24 +10,9 @@ has_children: true
 
 Each child's project was unique and developed out of their own interests and experiences. Two stories stood out based on their experieces using the machine learning tool. The first, Brian Bear, creates distinctly different sample recordings for each gesture (for instance, performs the gesture _sleep_ in three different ways). In the second case study, John Bear troubleshoots and diagnoses why two of their gestures are conflicting with one another. 
 
-<style>
-  /* 1. */
-  .column {
-    float: left;
-    width: 50%;
-    padding: 5px;
-  }
-  /* Clear floats after image containers */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-</style>
-
 <html>
   <style>
-    /* 2. Three image containers (use 25% for four, and 50% for two, etc) */
+    /* Three image containers (use 25% for four, and 50% for two, etc) */
     .column {
       float: left;
       width: 50%;
@@ -43,10 +28,14 @@ Each child's project was unique and developed out of their own interests and exp
   
   <div class="row">
     <div class="column">
-      <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:100%" />
+       <a href="brian-bear.html">
+         <img src="img/meet-brian-bear.png" alt="Brian Bear" style="width:100%" />
+      </a> 
     </div>
     <div class="column">
-      <img src="img/meet-john-bear.png" alt="John Bear" style="width:100%" />
+      <a href="john-bear.html">
+        <img src="img/meet-john-bear.png" alt="John Bear" style="width:100%" />
+      </a> 
     </div>
   </div> 
 </html>
