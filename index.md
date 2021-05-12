@@ -12,13 +12,13 @@ nav_order: 1
 ## How it Works
 ### Set-up
 
-![set up micro:bit](/img/getting-started-1.png)
+![set up micro:bit](/img/dragon-microbit-300.png)
 
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
 
 ### Record Gestures
 
-![record gestures](/img/getting-started-2.png)
+![record gestures](/img/recordings-300.png)
 
 Create a new gesture and perform the gesture multiple times while recording it.
 
