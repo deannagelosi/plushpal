@@ -14,7 +14,7 @@ Another participant, John Bear, exhibited a very different approach by repeatedl
 
 When Brian Bear described their process for recording three different sleep samples, they explained that it was based on how they sleep, which looks different throughout the night.
 
-![John Bear accelerometer data](/img/similar-yet-different-850.png)
+![John Bear accelerometer data](/img/similar-yet-different.svg)
 
 When this occurred, their initial response was to add more samples for _kick_ and _jump_. This revealed that they were aware that the number of samples affects the model. After recording a new _jump_ sample, they inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as they moved the bear up and down three times. This again shows their care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
 
