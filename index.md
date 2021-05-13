@@ -12,7 +12,7 @@ nav_order: 1
 ## How it Works
 ### Set-up
 
-![set up micro:bit](/img/dragon-microbit-300.png){: width="400"}
+![set up micro:bit](/img/dragon-microbit-300.png){: width="300"}
 
 Start by attaching a micro:bit to a stuffed animal and pair it to PlushPal using web Bluetooth.
 
