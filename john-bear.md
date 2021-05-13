@@ -14,7 +14,17 @@ Another participant, John Bear, exhibited a very different approach by repeatedl
 
 When Brian Bear described their process for recording three different sleep samples, they explained that it was based on how they sleep, which looks different throughout the night.
 
-![John Bear accelerometer data](/img/similar-yet-different.svg)
+### What a Child Sees
+
+When a child acts out a gesture with a stuffed animal, they see very different movements.
+
+![John Bear what a child sees](/img/just-john-bears.svg)
+
+### What a Computer Sees
+
+The micro:bit detects acceleration along the x-, y-, and z-axis, and the resulting shape is compared against what the child's future movements with the stuffed animal. In the case of _sleep_ and _jump_, the computer sees both of these gestures very similarly. 
+
+![John Bear accelerometer data](/img/john-bear-accelerometer-800.svg)
 
 When this occurred, their initial response was to add more samples for _kick_ and _jump_. This revealed that they were aware that the number of samples affects the model. After recording a new _jump_ sample, they inspected the existing samples, counted the three peaks, and then proceeded to record another sample, counting aloud as they moved the bear up and down three times. This again shows their care to make the samples similar while interpreting the sensor data to match peak count with the number of jumps.
 
