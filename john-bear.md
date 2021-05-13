@@ -18,7 +18,7 @@ When Brian Bear described their process for recording three different sleep samp
 
 When a child acts out a gesture with a stuffed animal, they see very different movements.
 
-![John Bear what a child sees](/img/just-john-bears.svg)
+![John Bear what a child sees](/img/just-john-bears.svg){: width="400"}
 
 ### What a Computer Sees
 
